@@ -55,7 +55,8 @@ module.exports.datastores = {
 
   mongodb:{
     adapter:require('sails-mongo'),
-    url:'mongodb://localhost:27017/articlebase'
+    url:'mongodb://Purnima31:Gabbar@031@ds149894.mlab.com:49894/articlebase'
+
   },
 
 
